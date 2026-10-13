@@ -1,0 +1,9 @@
+{
+  "name": "pixelland",
+  "version": "1.0.0",
+  "description": "אדמת פיקסלים - משחק אונליין רב משתתפים",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
